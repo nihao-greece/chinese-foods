@@ -1,0 +1,1 @@
+(function(a){a.scrollUp({scrollText:'<i class="fa fa-angle-double-up"></i>',easingType:"linear",scrollSpeed:900,animation:"fade"});})(jQuery);
